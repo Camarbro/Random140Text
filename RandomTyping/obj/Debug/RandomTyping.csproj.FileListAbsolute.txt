@@ -1,0 +1,6 @@
+c:\users\juan\documents\visual studio 2015\Projects\RandomTyping\RandomTyping\bin\Debug\RandomTyping.exe.config
+c:\users\juan\documents\visual studio 2015\Projects\RandomTyping\RandomTyping\bin\Debug\RandomTyping.exe
+c:\users\juan\documents\visual studio 2015\Projects\RandomTyping\RandomTyping\bin\Debug\RandomTyping.pdb
+c:\users\juan\documents\visual studio 2015\Projects\RandomTyping\RandomTyping\obj\Debug\RandomTyping.csprojResolveAssemblyReference.cache
+c:\users\juan\documents\visual studio 2015\Projects\RandomTyping\RandomTyping\obj\Debug\RandomTyping.exe
+c:\users\juan\documents\visual studio 2015\Projects\RandomTyping\RandomTyping\obj\Debug\RandomTyping.pdb
